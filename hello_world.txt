@@ -1,5 +1,5 @@
 void print() {
-    cout << "Bye world!";
+    cout << "bye world!";
 }
 
 int add(int a, int b) {
